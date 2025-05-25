@@ -1,0 +1,96 @@
+{
+  "color": {
+    "primary": {
+      "value": "#0D3B66",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#118AB2",
+      "type": "color"
+    },
+    "accent": {
+      "value": "#EF476F",
+      "type": "color"
+    },
+    "neutral-dark": {
+      "value": "#333333",
+      "type": "color"
+    },
+    "neutral-light": {
+      "value": "#F4F4F4",
+      "type": "color"
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "type": "color"
+    }
+  },
+  "font": {
+    "heading": {
+      "value": "Montserrat, sans-serif",
+      "type": "fontFamily"
+    },
+    "body": {
+      "value": "Inter, sans-serif",
+      "type": "fontFamily"
+    }
+  },
+  "fontSize": {
+    "h1": {
+      "value": "32px",
+      "type": "fontSize"
+    },
+    "h2": {
+      "value": "28px",
+      "type": "fontSize"
+    },
+    "h3": {
+      "value": "24px",
+      "type": "fontSize"
+    },
+    "sub": {
+      "value": "18px",
+      "type": "fontSize"
+    },
+    "body": {
+      "value": "16px",
+      "type": "fontSize"
+    },
+    "micro": {
+      "value": "12px",
+      "type": "fontSize"
+    }
+  },
+  "lineHeight": {
+    "heading": {
+      "value": 1.2,
+      "type": "lineHeight"
+    },
+    "sub": {
+      "value": 1.3,
+      "type": "lineHeight"
+    },
+    "body": {
+      "value": 1.5,
+      "type": "lineHeight"
+    },
+    "micro": {
+      "value": 1.4,
+      "type": "lineHeight"
+    }
+  },
+  "letterSpacing": {
+    "heading": {
+      "value": "0.5px",
+      "type": "letterSpacing"
+    },
+    "sub": {
+      "value": "0.3px",
+      "type": "letterSpacing"
+    },
+    "button": {
+      "value": "1px",
+      "type": "letterSpacing"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+body { margin:0; font-family:'IBM Plex Sans Thai',sans-serif; background:#F8F9FA; color:#333;}
+.hero, .services, .products, .partners, .companies, .blog, .steps, .reviews, .about, .contact { padding:50px 20px; text-align:center;}
+.hero { background:linear-gradient(135deg,#00A5E6,#FF6B35); color:#fff;}
+.hero h1 { font-family:'Prompt',sans-serif; font-size:2.5em; margin-bottom:20px;}
+.btn { background:#FF6B35;color:#fff;padding:10px 20px;border-radius:5px;text-decoration:none;}
+.services .grid, .products .grid-products, .partners .grid-logos, .companies .grid-logos, .blog .grid-blog, .reviews .grid-reviews { display:flex; flex-wrap:wrap; gap:20px; justify-content:center;}
+.card, .product-card, .review-card, .blog-card { background:#fff;padding:20px;border-radius:8px;width:300px; box-shadow:0 2px 8px rgba(0,0,0,0.1);}
+.product-card, .company-card { height:100px; display:flex; align-items:center; justify-content:center;}
+.steps ol { text-align:left; max-width:600px; margin:0 auto; padding-left:20px;}
+.contact form { display:flex; flex-direction:column; gap:10px; max-width:400px; margin:0 auto;}
+.contact input, .contact select, .contact button { padding:10px; border-radius:5px; border:1px solid #ccc;}
+.contact button { background:#00A5E6;color:#fff;border:none;}
+footer { background:#333;color:#fff;padding:20px;}
+footer .socials a { margin:0 10px; }
+footer img { width:24px; }
